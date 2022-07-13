@@ -1,4 +1,4 @@
-### Hey there, my name is Lucas! 👋
+### Hey there, I'm Lucas! 👋
 
 👨‍💻 Currently working with BI, SQL, Reports using Java, System Integration and Project Management. <br>
 🧑‍🏫 I also Teach English on my free time!
@@ -9,7 +9,7 @@
 - 📫 Send an E-mail to: lucasilvabr@gmail.com
 <br><br>
 
-### Find me elsewhere 🌎<br>
+### Find me 🌎<br>
 <div>
   <a href="https://instagram.com/luksalb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/luksalb" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
