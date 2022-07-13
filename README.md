@@ -9,7 +9,7 @@
 - 📫 Send an E-mail to: lucasilvabr@gmail.com
 <br><br>
 
-### More about me 🌎<br>
+### Find me elsewhere 🌎<br>
 <div>
   <a href="https://instagram.com/luksalb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/luksalb" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
