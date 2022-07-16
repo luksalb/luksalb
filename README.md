@@ -5,7 +5,7 @@
 
 
 - 🎯 My goal right now is to become a full-time programmer!
-- 🌱 Currently studying Angular, React and C#
+- 🌱 Currently studying Web Development
 - 📫 Send an E-mail to: lucasilvabr@gmail.com
 <br><br>
 
