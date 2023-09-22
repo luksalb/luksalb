@@ -1,6 +1,6 @@
 ### Hey there, I'm Lucas! 👋
 
-👨‍💻 Currently working with BI, SQL, Reports using Java, System Integration and Project Management. <br>
+👨‍💻 Currently working as a SQL Analyst and a .NET studant. <br>
 🧑‍🏫 I also Teach English on my free time!
 
 
