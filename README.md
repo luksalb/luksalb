@@ -5,7 +5,7 @@
 
 
 - 🎯 My goal right now is to become a full-time programmer!
-- 🌱 Currently studying Web Development
+- 🌱 Currently working in a project that runs in ASP.NET MVC. So i'm studying C#, .NET, Javascript and more.
 - 📫 Send an E-mail to: lucasilvabr@gmail.com
 <br><br>
 
