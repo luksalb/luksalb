@@ -1,11 +1,11 @@
 ### Hey there, I'm Lucas! 👋
 
-👨‍💻 Currently working in a project that runs in ASP.NET MVC. <br>
+👨‍💻 Currently a Jr. C# Developer. <br>
 🧑‍🏫 I also Teach English on my free time!
 
 
 - 🎯 My goal right now is to become a full-time programmer!
-- 🌱 I'm studying C#, .NET, Javascript and more.
+- 🌱 I'm studying C#, .NET Framework, Javascript and more.
 - 📫 Send an E-mail to: lucasilvabr@gmail.com
 <br><br>
 
