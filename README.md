@@ -19,18 +19,19 @@
 
 ### Skills:
 
-![JavaScript](https://img.shields.io/badge/javascript-F73C7B.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-F73C7B?style=for-the-badge&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-F73C7B?style=for-the-badge&logo=.net&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%234D4577.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23393359.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-F73C7B.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23393359.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F73C7B.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%234D4577.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23393359.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23393359.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-F73C7B.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%234D4577.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-F73C7B.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F73C7B.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23393359.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23393359.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%234D4577.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23393359.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 
 
