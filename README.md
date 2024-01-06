@@ -1,12 +1,12 @@
-### Hey there, I'm Lucas! 👋
+### About me:
 
-👨‍💻 Currently a Jr. C# Developer. <br>
-🧑‍🏫 I also Teach English on my free time!
+ <br>
+Lucas Silva, 26yo.
+I also Teach English on my free time.
 
-
-- 🎯 My goal right now is to become a full-time programmer!
-- 🌱 I'm studying C#, .NET Framework, Javascript and more.
-- 📫 Send an E-mail to: lucasilvabr@gmail.com
+- Back-End Developer.
+- Studying C# / ASP.NET.
+- 10 years in I.T. 2 years as a Product Manager, DevOps and 5 months into Programming.
 <br><br>
 
 ### Find me elsewhere 🌎<br>
