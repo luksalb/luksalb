@@ -11,7 +11,7 @@
 </div>
 
 ## You were trying to cross the border, right?
-Hi! Name's Lucas. I'm currently living in Rio de Janeiro, Brasil and I work with Tech for quite some time. My goal here is to improve, work and help others. <br>
+Hi! Name's Lucas. I'm currently living in Rio de Janeiro, Brasil and I've worked with Tech for quite some time. My goal here is to improve, work and help others. <br>
 
 
 ## About me:
