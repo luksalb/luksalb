@@ -44,4 +44,5 @@ I'm always open to:
 - Collaborating on projects  
 - Sharing knowledge and learning from others  
 
-Feel free to reach out on LinkedIn or check what I'm building here 👇
+Feel free to reach out on LinkedIn or check what I'm building here: <br/><br/>
+<a href="https://www.linkedin.com/in/albertolucas/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
